@@ -1,0 +1,246 @@
+Player,Pos,Team,ADP,Tier,ProjectedPoints,Bye,Risk
+Ja'Marr Chase,WR,CIN,1.5,0,360.0,7,Low
+Bijan Robinson,RB,ATL,2.0,0,320.0,12,Low
+Justin Jefferson,WR,MIN,3.5,0,350.0,6,Low
+Saquon Barkley,RB,PHI,4.0,0,305.0,5,Medium
+Jahmyr Gibbs,RB,DET,4.5,0,315.0,5,Low
+CeeDee Lamb,WR,DAL,5.5,0,330.0,7,Low
+Puka Nacua,WR,LAR,7.0,0,285.0,10,Medium
+Malik Nabers,WR,NYG,9.0,0,320.0,11,Low
+Christian McCaffrey,RB,SF,9.5,1,300.0,9,High
+Ashton Jeanty,RB,LV,10.5,1,295.0,13,Low
+Amon-Ra St. Brown,WR,DET,11.0,1,290.0,5,Low
+Brian Thomas Jr.,WR,JAX,12.0,1,270.0,12,Low
+Nico Collins,WR,HOU,13.0,1,275.0,14,Low
+De'Von Achane,RB,MIA,14.0,1,260.0,6,Medium
+Brock Bowers,TE,LV,15.0,1,260.0,13,Low
+Drake London,WR,ATL,16.0,1,265.0,12,Low
+A.J. Brown,WR,PHI,18.5,1,280.0,5,Low
+Marvin Harrison Jr.,WR,ARI,19.0,1,300.0,11,Low
+Kyren Williams,RB,LAR,21.0,2,250.0,10,Medium
+Bucky Irving,RB,TB,22.0,2,245.0,11,Low
+Chris Olave,WR,NO,23.5,2,255.0,12,Low
+Travis Etienne Jr.,RB,JAX,24.0,2,250.0,12,Medium
+Jonathan Brooks,RB,CAR,25.0,2,240.0,11,Medium
+Jaylen Waddle,WR,MIA,26.0,2,245.0,6,Low
+Derrick Henry,RB,BAL,27.0,2,240.0,14,Medium
+Garrett Wilson,WR,NYJ,28.0,2,240.0,12,Low
+Sam LaPorta,TE,DET,30.0,3,230.0,5,Low
+Josh Jacobs,RB,GB,31.0,3,235.0,10,Low
+Michael Pittman Jr.,WR,IND,32.0,3,230.0,14,Low
+Isiah Pacheco,RB,KC,33.0,3,230.0,6,Medium
+Rashee Rice,WR,KC,34.0,3,225.0,6,Low
+Davante Adams,WR,LV,35.0,3,220.0,13,Medium
+Trey Benson,RB,ARI,36.0,3,220.0,11,Low
+Rome Odunze,WR,CHI,38.0,3,220.0,7,Low
+DJ Moore,WR,CHI,39.0,3,215.0,7,Low
+James Cook,RB,BUF,40.0,4,215.0,12,Low
+George Pickens,WR,PIT,41.0,4,215.0,9,Low
+Rachaad White,RB,TB,42.0,4,210.0,11,Low
+Jordan Addison,WR,MIN,43.0,4,210.0,6,Low
+Zamir White,RB,LV,44.0,4,205.0,13,Medium
+DeVonta Smith,WR,PHI,45.0,4,205.0,5,Low
+Kyle Pitts,TE,ATL,46.0,4,200.0,12,Medium
+Tank Dell,WR,HOU,47.0,4,200.0,14,Medium
+Josh Allen,QB,BUF,48.0,4,385.0,12,Low
+Jalen Hurts,QB,PHI,49.0,4,380.0,5,Low
+Lamar Jackson,QB,BAL,50.0,4,375.0,14,Low
+Patrick Mahomes,QB,KC,51.0,4,370.0,6,Low
+C.J. Stroud,QB,HOU,52.0,4,365.0,14,Low
+Anthony Richardson,QB,IND,53.0,4,360.0,14,Medium
+Kyler Murray,QB,ARI,54.0,4,355.0,11,Low
+Joe Burrow,QB,CIN,55.0,4,350.0,7,Low
+Dak Prescott,QB,DAL,56.0,4,345.0,7,Low
+Jordan Love,QB,GB,57.0,4,340.0,10,Medium
+Jaylen Reed,WR,GB,58.0,5,195.0,10,Low
+Kenneth Walker III,RB,SEA,59.0,5,200.0,10,Medium
+Terry McLaurin,WR,WAS,60.0,5,190.0,14,Low
+David Montgomery,RB,DET,61.0,5,190.0,5,Low
+Evan Engram,TE,JAX,62.0,5,190.0,12,Low
+Travis Kelce,TE,KC,63.0,5,205.0,6,Medium
+Rhamondre Stevenson,RB,NE,64.0,5,185.0,14,Low
+Christian Kirk,WR,JAX,65.0,5,180.0,12,Low
+Jake Ferguson,TE,DAL,66.0,5,185.0,7,Low
+Jameson Williams,WR,DET,68.0,6,180.0,5,Medium
+Joe Mixon,RB,HOU,69.0,6,180.0,14,Medium
+Zay Flowers,WR,BAL,70.0,6,175.0,14,Low
+George Kittle,TE,SF,71.0,6,175.0,9,Low
+Jaxon Smith-Njigba,WR,SEA,72.0,6,170.0,10,Low
+Alvin Kamara,RB,NO,73.0,6,175.0,12,Medium
+Ladd McConkey,WR,LAC,74.0,6,170.0,5,Low
+Brian Robinson Jr.,RB,WAS,75.0,6,170.0,14,Low
+Jared Goff,QB,DET,76.0,6,335.0,5,Low
+Kirk Cousins,QB,ATL,77.0,6,330.0,12,Medium
+Tua Tagovailoa,QB,MIA,78.0,6,325.0,6,Low
+Brock Purdy,QB,SF,79.0,6,320.0,9,Low
+Trevor Lawrence,QB,JAX,80.0,6,315.0,12,Low
+Justin Herbert,QB,LAC,81.0,6,310.0,5,Low
+Matthew Stafford,QB,LAR,82.0,6,305.0,10,Low
+Aaron Rodgers,QB,NYJ,83.0,6,300.0,12,Medium
+Caleb Williams,QB,CHI,84.0,6,295.0,7,Low
+Jayden Daniels,QB,WAS,85.0,6,290.0,14,Low
+Javonte Williams,RB,DEN,86.0,7,165.0,14,Medium
+Najee Harris,RB,PIT,87.0,7,160.0,9,Low
+Nick Chubb,RB,CLE,88.0,7,155.0,10,High
+Zack Moss,RB,CIN,89.0,7,150.0,7,Medium
+D'Andre Swift,RB,CHI,90.0,7,145.0,7,Low
+Austin Ekeler,RB,WAS,91.0,7,140.0,14,Medium
+Tony Pollard,RB,TEN,92.0,7,135.0,5,Low
+Gus Edwards,RB,LAC,93.0,7,130.0,5,Medium
+Tyjae Spears,RB,TEN,94.0,7,125.0,5,Medium
+Jaylen Wright,RB,MIA,95.0,7,120.0,6,Low
+Blake Corum,RB,LAR,96.0,7,115.0,10,Low
+Devin Singletary,RB,NYG,97.0,7,110.0,11,Low
+Chase Brown,RB,CIN,98.0,7,105.0,7,Low
+Antonio Gibson,RB,NE,99.0,7,100.0,14,Medium
+Khalil Shakir,WR,BUF,100.0,8,165.0,12,Low
+Jakobi Meyers,WR,LV,101.0,8,160.0,13,Low
+Chris Godwin,WR,TB,102.0,8,155.0,11,Low
+Amari Cooper,WR,CLE,103.0,8,150.0,10,Medium
+Calvin Ridley,WR,TEN,104.0,8,145.0,5,Low
+Stefon Diggs,WR,HOU,105.0,8,140.0,14,Medium
+Keenan Allen,WR,CHI,106.0,8,135.0,7,Medium
+Mike Evans,WR,TB,107.0,8,130.0,11,Low
+Marquise Brown,WR,KC,108.0,8,125.0,6,Medium
+Diontae Johnson,WR,CAR,109.0,8,120.0,11,Low
+Courtland Sutton,WR,DEN,110.0,8,115.0,14,Low
+Cooper Kupp,WR,LAR,111.0,8,110.0,10,Medium
+Tee Higgins,WR,CIN,112.0,8,105.0,7,Medium
+Dalton Kincaid,TE,BUF,113.0,8,165.0,12,Low
+David Njoku,TE,CLE,114.0,8,160.0,10,Medium
+Pat Freiermuth,TE,PIT,115.0,8,155.0,9,Low
+Luke Musgrave,TE,GB,116.0,8,150.0,10,Low
+Cole Kmet,TE,CHI,117.0,8,145.0,7,Low
+Isaiah Likely,TE,BAL,118.0,8,140.0,14,Low
+Juwan Johnson,TE,NO,119.0,8,135.0,12,Low
+Taysom Hill,TE,NO,120.0,8,130.0,12,Medium
+Will Levis,QB,TEN,121.0,9,285.0,5,Medium
+Baker Mayfield,QB,TB,122.0,9,280.0,11,Low
+Geno Smith,QB,SEA,123.0,9,275.0,10,Low
+Russell Wilson,QB,PIT,124.0,9,270.0,9,Medium
+Deshaun Watson,QB,CLE,125.0,9,265.0,10,High
+Bryce Young,QB,CAR,126.0,9,260.0,11,Medium
+Derek Carr,QB,NO,127.0,9,255.0,12,Low
+Gardner Minshew,QB,LV,128.0,9,250.0,13,Low
+Sam Darnold,QB,MIN,129.0,9,245.0,6,Low
+J.J. McCarthy,QB,MIN,130.0,9,240.0,6,Low
+Bo Nix,QB,DEN,131.0,9,235.0,14,Low
+Michael Penix Jr.,QB,ATL,132.0,9,230.0,12,Low
+Roschon Johnson,RB,CHI,133.0,9,95.0,7,Low
+Kendre Miller,RB,NO,134.0,9,90.0,12,Medium
+Ezekiel Elliott,RB,DAL,135.0,9,85.0,7,Medium
+Jerome Ford,RB,CLE,136.0,9,80.0,10,Low
+Zach Charbonnet,RB,SEA,137.0,9,75.0,10,Low
+Tyler Allgeier,RB,ATL,138.0,9,70.0,12,Low
+Chuba Hubbard,RB,CAR,139.0,9,65.0,11,Low
+Dameon Pierce,RB,HOU,140.0,9,60.0,14,Medium
+James Conner,RB,ARI,141.0,9,55.0,11,Medium
+Miles Sanders,RB,CAR,142.0,9,50.0,11,Low
+AJ Dillon,RB,GB,143.0,9,45.0,10,Medium
+Alexander Mattison,RB,LV,144.0,9,40.0,13,Low
+JK Dobbins,RB,LAC,145.0,9,35.0,5,High
+Dalvin Cook,RB,FA,146.0,9,30.0,0,High
+Elijah Mitchell,RB,SF,147.0,10,55.0,9,Medium
+Tank Bigsby,RB,JAX,148.0,10,50.0,12,Low
+Ty Chandler,RB,MIN,149.0,10,45.0,6,Low
+Kenneth Gainwell,RB,PHI,150.0,10,40.0,5,Low
+Chris Rodriguez Jr.,RB,WAS,151.0,10,35.0,14,Low
+Rashid Shaheed,WR,NO,152.0,10,100.0,12,Low
+Demario Douglas,WR,NE,153.0,10,95.0,14,Low
+Quentin Johnston,WR,LAC,154.0,10,90.0,5,Low
+Michael Wilson,WR,ARI,155.0,10,85.0,11,Low
+Rondale Moore,WR,ATL,156.0,10,80.0,12,Low
+Tyler Boyd,WR,TEN,157.0,10,75.0,5,Low
+Wan'Dale Robinson,WR,NYG,158.0,10,70.0,11,Low
+Josh Downs,WR,IND,159.0,10,65.0,14,Low
+Jonathan Mingo,WR,CAR,160.0,10,60.0,11,Low
+Jalin Hyatt,WR,NYG,161.0,10,55.0,11,Low
+Trey Palmer,WR,TB,162.0,11,50.0,11,Low
+Curtis Samuel,WR,BUF,163.0,11,45.0,12,Low
+Adam Thielen,WR,CAR,164.0,11,40.0,11,Low
+Zay Jones,WR,ARI,165.0,11,35.0,11,Low
+K.J. Osborn,WR,NE,166.0,11,30.0,14,Low
+Demarcus Robinson,WR,LAR,167.0,11,25.0,10,Low
+Noah Brown,WR,HOU,168.0,11,20.0,14,Low
+Brandin Cooks,WR,DAL,169.0,11,15.0,7,Low
+Gabe Davis,WR,JAX,170.0,11,10.0,12,Low
+Jerry Jeudy,WR,CLE,171.0,11,5.0,10,Low
+Tucker Kraft,TE,GB,172.0,11,125.0,10,Low
+Cade Otton,TE,TB,173.0,11,120.0,11,Low
+Hunter Henry,TE,NE,174.0,11,115.0,14,Low
+Dalton Schultz,TE,HOU,175.0,11,110.0,14,Low
+Gerald Everett,TE,CHI,176.0,11,105.0,7,Low
+Tyler Conklin,TE,NYJ,177.0,11,100.0,12,Low
+Darren Waller,TE,NYG,178.0,11,95.0,11,High
+Daniel Jones,QB,NYG,179.0,12,225.0,11,Medium
+Aidan O'Connell,QB,LV,180.0,12,220.0,13,Low
+Sam Howell,QB,SEA,181.0,12,215.0,10,Low
+Drake Maye,QB,NE,182.0,12,210.0,14,Low
+Jake Haener,QB,NO,183.0,12,205.0,12,Low
+Carson Wentz,QB,KC,184.0,12,200.0,6,Low
+Drew Lock,QB,NYG,185.0,12,195.0,11,Low
+Baltimore Ravens DEF,DEF,BAL,186.0,12,110.0,14,Low
+Dallas Cowboys DEF,DEF,DAL,187.0,12,105.0,7,Low
+San Francisco 49ers DEF,DEF,SF,188.0,12,100.0,9,Low
+Buffalo Bills DEF,DEF,BUF,189.0,12,110.0,12,Low
+Miami Dolphins DEF,DEF,MIA,190.0,12,105.0,6,Low
+New York Jets DEF,DEF,NYJ,191.0,12,105.0,12,Low
+Pittsburgh Steelers DEF,DEF,PIT,192.0,12,110.0,9,Low
+Philadelphia Eagles DEF,DEF,PHI,193.0,12,105.0,5,Low
+Cleveland Browns DEF,DEF,CLE,194.0,12,100.0,10,Low
+Kansas City Chiefs DEF,DEF,KC,195.0,12,110.0,6,Low
+Tampa Bay Buccaneers DEF,DEF,TB,196.0,12,105.0,11,Low
+Houston Texans DEF,DEF,HOU,197.0,12,100.0,14,Low
+Indianapolis Colts DEF,DEF,IND,198.0,13,95.0,14,Low
+Green Bay Packers DEF,DEF,GB,199.0,13,90.0,10,Low
+New Orleans Saints DEF,DEF,NO,200.0,13,85.0,12,Low
+Jacksonville Jaguars DEF,DEF,JAX,201.0,13,80.0,12,Low
+Seattle Seahawks DEF,DEF,SEA,202.0,13,75.0,10,Low
+Denver Broncos DEF,DEF,DEN,203.0,13,70.0,14,Low
+Las Vegas Raiders DEF,DEF,LV,204.0,13,65.0,13,Low
+Los Angeles Chargers DEF,DEF,LAC,205.0,13,60.0,5,Low
+Los Angeles Rams DEF,DEF,LAR,206.0,13,55.0,10,Low
+Minnesota Vikings DEF,DEF,MIN,207.0,13,50.0,6,Low
+New England Patriots DEF,DEF,NE,208.0,13,45.0,14,Low
+New York Giants DEF,DEF,NYG,209.0,13,40.0,11,Low
+Washington Commanders DEF,DEF,WAS,210.0,13,35.0,14,Low
+Justin Tucker,K,BAL,211.0,13,150.0,14,Low
+Harrison Butker,K,KC,212.0,13,148.0,6,Low
+Evan McPherson,K,CIN,213.0,13,146.0,7,Low
+Jake Elliott,K,PHI,214.0,13,144.0,5,Low
+Brandon Aubrey,K,DAL,215.0,13,142.0,7,Low
+Jason Myers,K,SEA,216.0,13,140.0,10,Low
+Chris Boswell,K,PIT,217.0,13,138.0,9,Low
+Younghoe Koo,K,ATL,218.0,13,136.0,12,Low
+Jason Sanders,K,MIA,219.0,13,134.0,6,Low
+Matt Prater,K,ARI,220.0,13,132.0,11,Low
+Jake Moody,K,SF,221.0,14,130.0,9,Low
+Cameron Dicker,K,LAC,222.0,14,128.0,5,Low
+Tyler Bass,K,BUF,223.0,14,126.0,12,Low
+Matt Gay,K,IND,224.0,14,124.0,14,Low
+Ka'imi Fairbairn,K,HOU,225.0,14,122.0,14,Low
+Wil Lutz,K,DEN,226.0,14,120.0,14,Low
+Anders Carlson,K,GB,227.0,14,118.0,10,Low
+Dustin Hopkins,K,CLE,228.0,14,116.0,10,Low
+Riley Patterson,K,JAX,229.0,14,114.0,12,Low
+Greg Zuerlein,K,NYJ,230.0,14,112.0,12,Low
+Eddy Pineiro,K,CAR,231.0,14,110.0,11,Low
+Chase McLaughlin,K,TB,232.0,14,108.0,11,Low
+Graham Gano,K,NYG,233.0,14,106.0,11,Low
+Cairo Santos,K,CHI,234.0,14,104.0,7,Low
+Nick Folk,K,TEN,235.0,14,102.0,5,Low
+Brett Maher,K,FA,236.0,14,100.0,0,Low
+Rico Dowdle,RB,DAL,237.0,14,50.0,7,Low
+Jaleel McLaughlin,RB,DEN,238.0,14,45.0,14,Low
+Justice Hill,RB,BAL,239.0,14,40.0,14,Low
+D'Onta Foreman,RB,CLE,240.0,14,35.0,10,Medium
+Keaton Mitchell,RB,BAL,241.0,14,30.0,14,High
+Tyrone Tracy Jr.,RB,NYG,242.0,14,25.0,11,Low
+Ray Davis,RB,BUF,243.0,14,20.0,12,Low
+Xavier Worthy,WR,KC,244.0,14,50.0,6,Low
+Jauan Jennings,WR,SF,245.0,14,45.0,9,Low
+Romeo Doubs,WR,GB,246.0,14,40.0,10,Low
+Christian Watson,WR,GB,247.0,14,35.0,10,Medium
+DeAndre Hopkins,WR,TEN,248.0,14,30.0,5,Medium
+Mike Gesicki,TE,CIN,249.0,14,100.0,7,Low
+Jonnu Smith,TE,MIA,250.0,14,95.0,6,Low
